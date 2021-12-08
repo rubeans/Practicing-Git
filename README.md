@@ -1,1 +1,1 @@
-Praciting git is a repository made by me for personal knowledge
+Practicing-Git is a repository made for personal knowledge on how git works
